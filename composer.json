@@ -1,0 +1,14 @@
+{
+    "name": "yaojf081/composer",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ҧ",
+            "email": "453793348@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
